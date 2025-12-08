@@ -1,2 +1,2 @@
 # ARC-Network Testnet 
-Deploy your contract to Arc-Testnet
+Deploy contract to Arc-Testnet
