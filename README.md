@@ -1,6 +1,6 @@
 # ARC-Network Testnet 
 Deploy contract to Arc-Testnet
-:one: Add Network
+ Add Network
 :link: https://testnet.arcscan.app
 • Scroll down / Add Arc Testnet to wallet
 
