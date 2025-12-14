@@ -28,7 +28,7 @@ Deploy contract to Arc-Testnet
 • Mint memorial NFT
 • Use Counter tab / Tap to increase
 
-:seven: Swap on CurveFinance
+
  
 :link: https://curve.finance/dex/arc/swap
 • Swap $USDC :left_right_arrow: $WUSDC
