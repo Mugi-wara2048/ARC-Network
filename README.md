@@ -2,7 +2,7 @@
 Deploy contract to Arc-Testnet
  Add Network
 :link: https://testnet.arcscan.app
-• Scroll down / Add Arc Testnet to wallet
+• Scroll down / Add Arc Testnet 
 
 :two: Faucet
 :link: https://faucet.circle.com
