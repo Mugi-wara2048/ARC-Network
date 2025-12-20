@@ -26,7 +26,7 @@ Deploy contract to Arc-Testnet
 • Send GM on-chain
 • Deploy basic contracts / NFT / token
 • Mint memorial NFT
-• Use Counter tab / Tap to increase
+• Use Counter tab / Tap increase
 
 
  
