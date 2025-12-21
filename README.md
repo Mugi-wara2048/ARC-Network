@@ -6,7 +6,7 @@ Deploy contract to Arc-Testnet
 
 :two: Faucet
 :link: https://faucet.circle.com
-• Claim testnet tokens Daily
+• Claim testnet tokens
 
 :three: Register a Domain
 :link: https://infinityname.com
