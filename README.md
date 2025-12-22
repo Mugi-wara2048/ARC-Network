@@ -1,6 +1,7 @@
 # ARC-Network Testnet 
 Deploy contract to Arc-Testnet
  Add Network
+ 
 :link: https://testnet.arcscan.app
 • Scroll down / Add Arc Testnet 
 
@@ -21,6 +22,7 @@ Deploy contract to Arc-Testnet
 • Upload image / Fill details / Select Arc Testnet / Deploy
 
 :six: ZKcodex Interactions
+
 :link: https://zkcodex.com/onchain/gm
 • Choose Arc Testnet
 • Send GM on-chain
