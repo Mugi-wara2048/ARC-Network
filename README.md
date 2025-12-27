@@ -19,7 +19,7 @@ Deploy contract to Arc Testnet
 
 :five: Deploy NFT Collection
 :link: https://omnihub.xyz/create
-• Upload image / Fill details / Select Arc Testnet / Deploy
+• Upload image / Fill details / Select Arc Testnet / Deploy.
 
 :six: ZKcodex Interactions
 
