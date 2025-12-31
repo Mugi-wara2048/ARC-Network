@@ -5,7 +5,7 @@ Deploy contract to Arc Testnet
 :link: https://testnet.arcscan.app
 • Scroll down  Add Arc Testnet 
 
-:two: Faucet
+ Faucet
 :link:https://faucet.circle.com
 • Claim testnet tokens
 
