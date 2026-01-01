@@ -9,7 +9,7 @@ Deploy contract to Arc Testnet
 :link:https://faucet.circle.com
 • Claim testnet tokens
 
-:three: Register a Domain
+ Register a Domain
 :link: https://infinityname.com
 • Search name / Register on Arc Testnet
 
