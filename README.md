@@ -13,7 +13,7 @@ Deploy contract to Arc Testnet
 :link: https://infinityname.com
 • Search name / Register on Arc Testnet
 
-:four: Send an On-chain GM
+:four: Send an On-chain GM.
 :link: https://onchaingm.com
 • Select Arc Testnet / Send GM
 
