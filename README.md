@@ -23,7 +23,7 @@ Deploy contract to Arc Testnet
 
 :six: ZKcodex Interactions
 
-:link: https://zkcodex.com/onchain/gm
+ https://zkcodex.com/onchain/gm
 • Choose Arc Testnet
 • Send GM on-chain
 • Deploy basic contracts / NFT / token
