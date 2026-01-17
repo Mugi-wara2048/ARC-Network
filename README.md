@@ -6,7 +6,7 @@ Deploy contract to Arc Testnet
 • Scroll down  Add Arc Testnet 
 
  Faucet
-:link:https://faucet.circle.com
+https://faucet.circle.com
 • Claim testnet tokens
 
  Register a Domain
