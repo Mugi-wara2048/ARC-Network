@@ -10,7 +10,7 @@ https://faucet.circle.com
 • Claim testnet tokens
 
  Register a Domain
-:link: https://infinityname.com
+https://infinityname.com
 • Search name / Register on Arc Testnet
 
 :four: Send an On-chain GM.
