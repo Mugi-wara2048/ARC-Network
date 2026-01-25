@@ -13,7 +13,7 @@ https://faucet.circle.com
 https://infinityname.com
 • Search name / Register on Arc Testnet
 
-:four: Send an On-chain GM.
+Send an On-chain GM.
  https://onchaingm.com
 • Select Arc Testnet / Send GM
 
