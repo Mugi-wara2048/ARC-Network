@@ -17,7 +17,7 @@ Send an On-chain GM.
  https://onchaingm.com
 • Select Arc Testnet / Send GM
 
-:five: Deploy NFT Collection
+Deploy NFT Collection
 :link: https://omnihub.xyz/create
 • Upload image / Fill details / Select Arc Testnet / Deploy.
 
