@@ -32,7 +32,7 @@ ZKcodex Interactions
 
 
  
-:link: https://curve.finance/dex/arc/swap
+https://curve.finance/dex/arc/swap
 • Swap $USDC :left_right_arrow: $WUSDC
 
 :eight: Check Explorer
