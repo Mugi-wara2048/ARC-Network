@@ -23,7 +23,7 @@ Deploy NFT Collection
 
 ZKcodex Interactions
 
- https://zkcodex.com/onchain/gm
+https://zkcodex.com/onchain/gm
 • Choose Arc Testnet
 • Send GM on-chain
 • Deploy basic contracts / NFT / token
