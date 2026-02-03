@@ -19,7 +19,7 @@ Send an On-chain GM.
 
 Deploy NFT Collection
 https://omnihub.xyz/create
-• Upload image / Fill details / Select Arc Testnet / Deploy.
+Upload image / Fill details / Select Arc Testnet / Deploy.
 
 ZKcodex Interactions
 
