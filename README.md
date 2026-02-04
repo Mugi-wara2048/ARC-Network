@@ -21,7 +21,7 @@ Deploy NFT Collection
 https://omnihub.xyz/create
 Upload image / Fill details / Select Arc Testnet / Deploy.
 
-ZKcodex Interactions
+ZKcodex Interactions-
 
 https://zkcodex.com/onchain/gm
 • Choose Arc Testnet
