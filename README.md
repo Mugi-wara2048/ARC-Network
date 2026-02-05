@@ -15,7 +15,7 @@ https://infinityname.com
 
 Send an On-chain GM.
  https://onchaingm.com
-• Select Arc Testnet / Send GM
+Select Arc Testnet / Send GM
 
 Deploy NFT Collection
 https://omnihub.xyz/create
