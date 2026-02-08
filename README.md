@@ -11,7 +11,7 @@ https://faucet.circle.com
 
  Register a Domain
 https://infinityname.com
-• Search name / Register on Arc Testnet
+Search name / Register on Arc Testnet
 
 Send an On-chain GM.
  https://onchaingm.com
