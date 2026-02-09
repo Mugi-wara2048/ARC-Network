@@ -1,6 +1,6 @@
 # ARC-Network Testnet 
 Deploy contract to Arc Testnet
- Add Network
+Add Network
  
 https://testnet.arcscan.app
 •Scroll down  Add Arc Testnet 
