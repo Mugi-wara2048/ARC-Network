@@ -3,7 +3,7 @@ Deploy contract to Arc Testnet
 Add Network
  
 https://testnet.arcscan.app
-•Scroll down  Add Arc Testnet 
+Scroll down  Add Arc Testnet 
 
 Faucet
 https://faucet.circle.com
