@@ -9,7 +9,7 @@ Faucet
 https://faucet.circle.com
 Claim testnet tokens
 
- Register a Domain
+
 https://infinityname.com
 Search name / Register on Arc Testnet
 
