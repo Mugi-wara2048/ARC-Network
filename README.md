@@ -7,7 +7,7 @@ Scroll down  Add Arc Testnet
 
 Faucet
 https://faucet.circle.com
-•Claim testnet tokens
+Claim testnet tokens
 
  Register a Domain
 https://infinityname.com
