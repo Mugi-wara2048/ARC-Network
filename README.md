@@ -5,7 +5,7 @@ Add Network
 https://testnet.arcscan.app
 Scroll down  Add Arc Testnet 
 
-Faucet
+Faucet link
 https://faucet.circle.com
 Claim testnet tokens
 
