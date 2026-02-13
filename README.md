@@ -14,7 +14,7 @@ https://infinityname.com
 Search name / Register on Arc Testnet
 
 Send an On-chain GM.
- https://onchaingm.com
+https://onchaingm.com
 Select Arc Testnet / Send GM
 
 Deploy NFT Collection
